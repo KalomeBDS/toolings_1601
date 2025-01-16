@@ -1,2 +1,2 @@
 # This script is a test
-print("Hello")
+print("Hello world")
